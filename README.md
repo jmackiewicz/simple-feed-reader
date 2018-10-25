@@ -1,4 +1,4 @@
-https://dev.azure.com/jacekmac/simple-reader/_apis/build/status/jmackiewicz.simple-feed-reader
+[![Build Status](https://dev.azure.com/jacekmac/simple-reader/_apis/build/status/jmackiewicz.simple-feed-reader)](https://dev.azure.com/jacekmac/simple-reader/_build/latest?definitionId=5)
 # Simple Feed Reader
 
 This is a sample application used for [Azure guidance](https://docs.microsoft.com/aspnet/core/azure/?view=aspnetcore-2.1) tutorials.
